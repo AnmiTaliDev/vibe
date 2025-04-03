@@ -1,0 +1,12 @@
+2025-04-03 11:43:00,066 - INFO - Запуск сервера на 0.0.0.0:5000
+2025-04-03 11:43:00,073 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.100:5000
+2025-04-03 11:43:00,073 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 11:43:11,239 - INFO - 127.0.0.1 - - [03/Apr/2025 11:43:11] "GET / HTTP/1.1" 200 -
+2025-04-03 11:43:11,271 - INFO - 127.0.0.1 - - [03/Apr/2025 11:43:11] "GET /static/styles.css HTTP/1.1" 200 -
+2025-04-03 11:43:11,273 - INFO - 127.0.0.1 - - [03/Apr/2025 11:43:11] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-03 11:43:11,298 - INFO - 127.0.0.1 - - [03/Apr/2025 11:43:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-03 11:43:11,309 - INFO - Список треков запрошен: []
+2025-04-03 11:43:11,310 - INFO - 127.0.0.1 - - [03/Apr/2025 11:43:11] "GET /music HTTP/1.1" 200 -

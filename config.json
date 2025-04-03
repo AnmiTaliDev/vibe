@@ -1,0 +1,5 @@
+{
+    "music_dir": "~/.vibe/music",
+    "port": 5000,
+    "host": "0.0.0.0"
+}
